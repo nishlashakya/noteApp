@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.note {
+  padding: 5px;
+  margin: 10px;
+  float: left;
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+  width: 200px;
+  min-height: 200px;
+}
